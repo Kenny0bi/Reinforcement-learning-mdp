@@ -109,5 +109,3 @@ This project aims to develop optimal policies for three Markov decision processe
 - **Result**: The policy (`large_qlearning.policy`) was successfully generated and scored 3/3 on the leaderboard with a **raw policy score of 303.48** and **leaderboard score of 3033.73**.
 
 ---
-
-- **Overleaf Conversion**: Prepare this documentation on Overleaf if required by course specifications.
